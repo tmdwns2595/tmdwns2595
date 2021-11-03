@@ -12,5 +12,9 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.facebook.com/profile.php?id=100005816950372">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
+</a>
+
 ## :muscle: SKILLS!
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
