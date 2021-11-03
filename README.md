@@ -3,7 +3,7 @@
 - 👀 I’m interested in basketball and taking pictures.
 - 🌱 I’m currently preparing for a job.
 - 📫 The way to contact me is by email. The email address is "tmdwns2595@naver.com".
-- 
+
 <a href="https://www.instagram.com/ls__junjun/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
