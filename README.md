@@ -1,5 +1,5 @@
 # Let me introduce myself
-- 👋 Hi, my name is seungjun Lee
+- 👋 Hi, My name is seungjun Lee
 - 👀 I’m interested in basketball and taking pictures.
 - 🌱 I’m currently preparing for a job.
 
